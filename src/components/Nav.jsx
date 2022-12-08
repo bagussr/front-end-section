@@ -63,13 +63,13 @@ const Nav = () => {
                     </div>
                   </NavLink>
                 </li>
-                <li onClick={() => setOffCanvas(false)} className=''>
+                {/* <li onClick={() => setOffCanvas(false)} className=''>
                   <NavLink to='/faq' className='text-white'>
                     <div className='lg:w-1/4 transform lg:border-b-2 lg:border-white transition-all duration-500 hover:w-1/2 lg:text-base text-3xl lg:mt-0 mt-10'>
                       <p className='w-28 '>FAQ </p>
                     </div>
                   </NavLink>
-                </li>
+                </li> */}
 
                 <div className='lg:hidden flex  justify-center w-full  items-center  '>
                   <a
