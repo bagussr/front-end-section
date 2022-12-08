@@ -46,7 +46,7 @@ const About = () => {
           {/* CTA */}
           <div className='flex w-full md:flex-row flex-col gap-3 my-5 justify-center'>
             <a
-              href='https://wa.me/6289514582709'
+              href='https://wa.me/6281286591613'
               className='bg-gradient-to-r from-[#5334B1] to-[#401881] px-5 py-3 text-white rounded-lg drop-shadow-[0_1px_10px_#ffffff3f] hover:drop-shadow-[0_35px_35px_#ffffff3f] transition duration-500'>
               Kontak Kami
             </a>

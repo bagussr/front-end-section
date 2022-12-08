@@ -70,7 +70,7 @@ const SocialMedia = () => {
         </a> */}
 
         {/* Whatsapp */}
-        <a href='https://wa.me/6289514582709'>
+        <a href='https://wa.me/6281286591613'>
           <div className=' rounded-full p-2'>
             <svg
               width='50'
